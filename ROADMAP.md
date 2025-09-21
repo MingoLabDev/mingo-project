@@ -1,2 +1,0 @@
-## Roadmap
-Planned development stages.

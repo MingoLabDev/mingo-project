@@ -1,2 +1,0 @@
-## Whitepaper
-Detailed project description.
